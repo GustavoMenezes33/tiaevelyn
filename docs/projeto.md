@@ -44,5 +44,6 @@ Skills criadas:
 - README.md e .env.example: instruções de instalação e configuração.
 
 Vídeo e repositório do projeto
-YouTube: 
+YouTube: https://youtu.be/oW92sI7qGjk
 GitHub: https://github.com/GustavoMenezes33/tiaevelyn
+
